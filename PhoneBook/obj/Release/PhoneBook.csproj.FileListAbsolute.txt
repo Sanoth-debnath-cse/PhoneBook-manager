@@ -1,0 +1,10 @@
+D:\c#\C# code\PhoneBook\PhoneBook\bin\Release\PhoneBook.exe.config
+D:\c#\C# code\PhoneBook\PhoneBook\bin\Release\PhoneBook.exe
+D:\c#\C# code\PhoneBook\PhoneBook\bin\Release\PhoneBook.pdb
+D:\c#\C# code\PhoneBook\PhoneBook\bin\Release\MySql.Data.dll
+D:\c#\C# code\PhoneBook\PhoneBook\obj\Release\PhoneBook.csprojResolveAssemblyReference.cache
+D:\c#\C# code\PhoneBook\PhoneBook\obj\Release\PhoneBook.Form1.resources
+D:\c#\C# code\PhoneBook\PhoneBook\obj\Release\PhoneBook.Properties.Resources.resources
+D:\c#\C# code\PhoneBook\PhoneBook\obj\Release\PhoneBook.csproj.GenerateResource.Cache
+D:\c#\C# code\PhoneBook\PhoneBook\obj\Release\PhoneBook.exe
+D:\c#\C# code\PhoneBook\PhoneBook\obj\Release\PhoneBook.pdb
